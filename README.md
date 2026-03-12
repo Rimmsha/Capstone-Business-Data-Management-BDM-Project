@@ -9,7 +9,8 @@ Customer Behavior Analysis: Understanding buying patterns and preferences.
 Sales Data Analysis: Analyzing sales trends, revenue patterns, and product performance.
 Inventory Management: Optimizing inventory handling to reduce average inventory days.
 The insights and recommendations derived from this project aim to assist the shop owner in increasing sales, improving customer satisfaction, and boosting profitability.
-🏢 Business Context
+
+**🏢 Business Context**
 Business Type: B2C (Retail Fashion)
 Products: Readymade garments and fashion-related items for men (e.g., shirts, jeans, trousers, shoes).
 Established: October 2020
@@ -18,7 +19,8 @@ Business Challenges
 Declining sales during non-festive periods.
 Inefficient inventory management leading to overstocking or stockouts.
 Inability to adapt quickly to changing customer needs.
-🛠️ Methodology
+
+**🛠️ Methodology**
 Data Collection
 Data was collected directly from the shop owner over three months (October–December 2022).
 Collected data included:
@@ -38,7 +40,8 @@ Key Analysis Areas:
   * Revenue contribution and profit margins by product.
   * Inventory efficiency (average days of inventory).
   * Scatter plots to evaluate product pricing vs. sales performance.
-📊 Key Insights
+
+**📊 Key Insights**
 Sales Trends
 Maximum sales during festive months (October and December) due to Dussehra, Diwali, and Christmas.
 Significant drop in sales during mid-week days (Tuesday–Thursday) and mid-month periods.
@@ -48,7 +51,8 @@ High-performing items (e.g., jeans and shoes) require better stock planning to a
 Revenue and Profit Analysis
 Two products (B01 - Jeans, F01 - Shoes) contributed 65% of total profit (combined Rs. 40,000).
 Low revenue and sales for certain items that occupy shelf space, especially accessories.
-💡 Recommendations
+
+**💡 Recommendations**
 Implement Weekday Promotions:
 Offer discounts or deals on low-performing weekdays to boost sales.
 Cross-sell and Upsell:
@@ -59,14 +63,17 @@ Increase Product Visibility:
 Position popular products in high-visibility areas within the shop.
 Expand Product Range:
 Introduce products for women and children to attract a broader customer base.
-📈 Results
+
+**📈 Results**
 Improved understanding of customer preferences.
 Recommendations to reduce inventory inefficiencies and maximize revenue.
 Data-driven visualizations to support decision-making.
 Average daily purchase amount identified as Rs. 2,000, highlighting opportunities to increase order values.
-📦 Prerequisites
+
+**📦 Prerequisites**
 To explore the analysis:
 Open the Excel workbook CAPSTONE_DATA.xlsx for detailed data and analysis.
 Use MS Excel to review pivot tables, charts, and insights.
-🤝 Acknowledgments
+
+**🤝 Acknowledgments**
 Special thanks to the shop owner of "Flying Colours of Fashion" for sharing data.
